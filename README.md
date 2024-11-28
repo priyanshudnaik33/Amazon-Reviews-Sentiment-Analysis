@@ -39,7 +39,7 @@ The following libraries were utilized in this project:
 <br>-Preprocess Data: Clean and prepare the text data for sentiment analysis.
 <br>-Apply Sentiment Analysis Techniques: Implement both VADER and RoBERTa to classify sentiments in the reviews.
 ## Sentiment Analysis Techniques
-<br>Lexicon-Based Approach (VADER)
+<br><h2>Lexicon-Based Approach (VADER)</h2>
 <br><h3>How it Works</h3>
 <br>VADER uses a predefined list of words with associated sentiment scores to evaluate text sentiment. It considers punctuation, capitalization, and degree modifiers to refine its scoring.
 <br><h3>VADER's Strengths</h3>
@@ -52,7 +52,7 @@ The following libraries were utilized in this project:
 <br><h3>Transformer-Based Approach (RoBERTa)</h3>
 <br>How it Works
 <br>-RoBERTa is a transformer-based model that learns word representations from large datasets. It analyzes input text by breaking it down into tokens and understanding their relationships within sentences.
-<br>RoBERTa's Strengths
+<br><h2>RoBERTa's Strengths</h2>
 <br>-Excellent contextual understanding of language.
 <br>-Generally achieves higher accuracy than traditional methods.
 <br><h3>RoBERTa's Potential Limitations</h3>
@@ -70,6 +70,5 @@ The following libraries were utilized in this project:
 This project demonstrates the power of sentiment analysis in extracting meaningful insights from customer reviews. The comparative analysis of VADER and RoBERTa highlights their respective strengths and weaknesses, providing valuable information for businesses looking to enhance customer experiences.
 
 Dataset is large size. If anyone wants datasets then they can download from here https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input.
-9876
 </body>
 </html>
